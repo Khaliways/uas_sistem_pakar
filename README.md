@@ -6,7 +6,7 @@
 
 -   Home
     <img
-        src="https://user-images.githubusercontent.com/Screenshot 2024-12-24 154014(https://github.com/user-attachments/assets/234db7d9-6f9c-47da-9b05-31579e235d7e)
+        src="https://user-images.githubusercontent.com/https://github.com/Khaliways/uas_sistem_pakar/blob/main/public/assets/img/Screenshot%202024-12-24%20154014.png"
         alt="home"
         srcset=""
     />
