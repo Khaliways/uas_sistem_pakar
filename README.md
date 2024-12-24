@@ -6,7 +6,8 @@
 
 -   Home
     <img
-        src="https://user-images.githubusercontent.com/55641225/210590987-d726e463-4047-4bf9-aacc-30a2621b9d5d.png"
+        src="![Screenshot 2024-12-24 154014](https://github.com/user-attachments/assets/4a14eb68-f6ec-44c8-b422-a43b3d955c53)
+"
         alt="home"
         srcset=""
     />
