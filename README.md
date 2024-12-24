@@ -55,9 +55,10 @@
 />
 
 <ol>
-    <li><a href="https://github.com/alfiatqia26" target="_blank">Alfi Atqia R.</li>
-    <li><a href="https://github.com/canggihwr" target="_blank">Canggih Wahyu R.</a></li>
-    <li><a href="https://github.com/Andrian17" target="_blank">Andrian</a></li>
+    <li><a href="https://github.com/alfiatqia26" target="_blank">Azhar Aufa</li>
+    <li><a href="https://github.com/canggihwr" target="_blank">Nazhif Aqiel Murtadho</a></li>
+    <li><a href="https://github.com/Andrian17" target="_blank">Tahta Nieda Aulia</a></li>
+     <li><a href="https://github.com/Andrian17" target="_blank">uhammad Lutfi</a></li>
 <ol>
 
 ## Menjalankan Program
