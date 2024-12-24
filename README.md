@@ -5,7 +5,7 @@
 ## Berikut tampilan sistem yang di buat.
 
 -   Home
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/Khaliways/uas_sistem_pakar/blob/main/public/assets/img/Screenshot%202024-12-24%20154014.png?raw=true)
 
 -   Dashboard
 
